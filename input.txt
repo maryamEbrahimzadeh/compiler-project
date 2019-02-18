@@ -1,0 +1,13 @@
+program test ;
+
+int function(){
+	int a =2 ;
+	real	b = 3.14 ;
+	String "hii" ;
+	bool flag = true ;
+
+	while( a < 4 ){
+		a = a + 1;
+	}
+	return a ;
+}

@@ -1,0 +1,11 @@
+program folan 
+
+{ 
+	integer maryam (  ) 
+	{ 
+		if ( a < b || c < d ) then { a=3; } else {b=2;};
+		 
+	
+	} 
+}
+
